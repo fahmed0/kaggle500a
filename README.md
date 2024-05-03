@@ -5,8 +5,9 @@ This project explores the use of decision tree regression models on a simple dat
 Dataset Description
 The dataset used in this project contains two columns, labeled as 1 and 100. The data appears to be synthetically generated for the purpose of demonstrating basic regression techniques.
 
-1: Independent variable (Feature)
-100: Dependent variable (Target)
+'1': Independent variable (Feature)
+
+'100': Dependent variable (Target)
 Tools and Technologies
 Language: Python 3
 Libraries: pandas, matplotlib, seaborn, scikit-learn
